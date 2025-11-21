@@ -5,8 +5,8 @@ TheIsle(岛)1.53.3全功能服务器插件+客户端插件+存龙网插件（免
 本项目仅供学习使用，不得用于任何商业用途以及其他非法活动，违规使用所造成的一切法律后果由使用者自行承担！</br>
 本项目仅供学习使用，不得用于任何商业用途以及其他非法活动，违规使用所造成的一切法律后果由使用者自行承担！</br></br>
 请严格遵守Steam专用服务器使用许可协议与TheIsle(岛)游戏厂商专用服务器使用许可协议：
-[https://store.steampowered.com/eula/376210_eula_0](https://store.steampowered.com/eula/376210_eula_0)
-[https://steamcommunity.com/app/376210/discussions/](https://steamcommunity.com/app/376210/discussions/)
+[https://store.steampowered.com/eula/376210_eula_0](https://store.steampowered.com/eula/376210_eula_0)</br>
+[https://steamcommunity.com/app/376210/discussions/](https://steamcommunity.com/app/376210/discussions/)</br>
 [https://www.theisle-game.com/en](https://www.survivetheisle.com/)
 </br>
  **下载链接：** </br>
