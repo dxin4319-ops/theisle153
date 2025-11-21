@@ -1,9 +1,13 @@
 # theisle153
-TheIsle恐龙岛1.53.3全功能服务器插件+客户端插件+存龙网插件（免费发放），可直接开服。</br></br>
+TheIsle(岛)1.53.3全功能服务器插件+客户端插件+存龙网插件（免费发放），可直接开服。</br></br>
 
 本项目仅供学习使用，不得用于任何商业用途以及其他非法活动，违规使用所造成的一切法律后果由使用者自行承担！</br>
 本项目仅供学习使用，不得用于任何商业用途以及其他非法活动，违规使用所造成的一切法律后果由使用者自行承担！</br>
 本项目仅供学习使用，不得用于任何商业用途以及其他非法活动，违规使用所造成的一切法律后果由使用者自行承担！</br></br>
+请严格遵守Steam专用服务器使用许可协议与TheIsle(岛)游戏厂商专用服务器使用许可协议：
+[https://store.steampowered.com/eula/376210_eula_0](https://store.steampowered.com/eula/376210_eula_0)
+[https://steamcommunity.com/app/376210/discussions/](https://steamcommunity.com/app/376210/discussions/)
+[https://www.theisle-game.com/en](https://www.survivetheisle.com/)
  **下载链接：** </br>
 [客户端部署文件](https://gitee.com/mcfksj/theisle153/releases/download/1.0.0.0/%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%83%A8%E7%BD%B2%E6%96%87%E4%BB%B6.zip)</br>
 [ 服务器部署文件](https://gitee.com/mcfksj/theisle153/releases/download/1.0.0.0/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2%E6%96%87%E4%BB%B6.zip)</br>
